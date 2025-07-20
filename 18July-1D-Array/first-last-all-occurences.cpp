@@ -56,4 +56,5 @@ int main() {
 	    cout << ao[i] << " ";
 	}
 
+	return 0;
 }
